@@ -1,0 +1,19 @@
+
+   ** Para guardar parte del fichero escriba   :#,# NOMBRE_DEL_FICHERO **
+
+
+  1. Escriba de nuevo, una vez más,  :!dir  o  :!ls  para obtener una lista
+     de su directorio y elija nombre de fichero adecuado, como TEST.
+
+  2. Mueva el cursor al principio de la pantalla y pulse  Ctrl-g  para saber
+     el número de la línea correspondiente. ¡RECUERDE ESTE NÚMERO!
+
+  3. Ahora mueva el cursor a la última línea de la pantalla y pulse Ctrl-g
+     de nuevo. ¡RECUERDE TAMBIÉN ESTE NÚMERO!
+
+  4. Para guardar SOLAMENTE una parte de un fichero, escriba  :#,# w TEST
+     donde #,# son los números que usted ha recordado (primera línea,
+     última línea) y TEST es su nombre de dichero.
+
+  5. De nuevo, vea que el fichero esta ahí con	:!dir  pero NO lo borre.
+
